@@ -1,0 +1,9 @@
+Hola
+
+este es un proyecto de roadmap: https://roadmap.sh/projects/image-processing-service
+
+este solo era de backend pero quise agregarle un frontend funcional para practicar y dejarlo al 100
+
+obviamente todo esta hecho con typescript ya que me da amsiedad trabajar sin el
+
+en el backend use una arquitectura clean, pero en el front lo hice asi como dios me dio a entender, una disculpa es que aun no aprend alguna arquitectura para el front pero prometo que sera la ultima vez que pasa sorry :(
