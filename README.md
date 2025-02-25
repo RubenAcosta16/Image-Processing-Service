@@ -7,3 +7,5 @@ este solo era de backend pero quise agregarle un frontend funcional para practic
 obviamente todo esta hecho con typescript ya que me da amsiedad trabajar sin el
 
 en el backend use una arquitectura clean, pero en el front lo hice asi como dios me dio a entender, una disculpa es que aun no aprend alguna arquitectura para el front pero prometo que sera la ultima vez que pasa sorry :(
+
+por cierto le hice test en el back pero luego no supe como enviar imagenes desde el test y pos mejor no hice test para nada de las imagenes, solo user pero se me olvido actualizarlas luego que mejore los middlewares del user y cookies asi que creo que no jalan los test
